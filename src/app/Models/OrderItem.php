@@ -15,7 +15,7 @@ class OrderItem extends Model
     ];
 
     protected $attributes = [
-        'currency' => 'CNY',
+        'currency' => 'TWD',
     ];
 
     public function order()
